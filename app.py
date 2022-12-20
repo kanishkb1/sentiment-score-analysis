@@ -1,6 +1,5 @@
 import nltk
 from flask import request
-from flask import jsonify
 from flask import Flask, render_template
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
