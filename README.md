@@ -1,5 +1,7 @@
 # Simple Sentiment Score Analysis System
 
+Live Project Link :  <https://sentiment-score-analysis.onrender.com>
+
 ## Project Description 
 
 * Sentiment analysis is the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information.
@@ -17,4 +19,11 @@
 * NLTK
 * Render Cloud
 
+
+## How to use ?
+
+* To run on terminal, launch the flask application by following command-
+`flask --app app run`
+
+* The launched app will start and navigate to a link. Open the link in browser (localhost).
 
