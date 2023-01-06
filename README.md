@@ -27,3 +27,6 @@ Live Project Link :  <https://sentiment-score-analysis.onrender.com>
 
 * The launched app will start and navigate to a link. Open the link in browser (localhost).
 
+## Contributors
+
+* Nikita Mandlik (Portfolio: https://nikitamandlik123.github.io/)
